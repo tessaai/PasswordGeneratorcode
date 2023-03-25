@@ -1,0 +1,32 @@
+body {
+  background-color: #ebebeb;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#password-container {
+  text-align: center;
+  margin: 3.5rem auto;
+  background-color: #fff;
+  padding: 2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#generate-button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#password-input {
+  width: 10rem;
+  height: 1rem;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
